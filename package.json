@@ -1,0 +1,10 @@
+{
+  "name": "fred-mcp-server",
+  "version": "0.1.0",
+  "description": "Open-source FRED MCP Server (Federal Reserve Economic Data)",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
