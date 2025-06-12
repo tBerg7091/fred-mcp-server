@@ -1,6 +1,6 @@
 {
   "name": "fred-mcp-server",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Open-source FRED MCP Server (Federal Reserve Economic Data)",
   "main": "src/index.ts",
   "scripts": {
